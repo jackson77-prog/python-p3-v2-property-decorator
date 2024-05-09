@@ -8,7 +8,7 @@ APPROVED_BREEDS = [
     "Pug",
     "Pointer"
 ]
-
+#initiating class
 
 class Dog:
     def __init__(self, name='Fido', breed='Mastiff'):
